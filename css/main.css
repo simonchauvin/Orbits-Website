@@ -1,7 +1,7 @@
 @font-face {
-    font-family: 'Orbitron';
-    src: url('../fonts/orbitron-light-webfont.eot');
-    src: url('../fonts/orbitron-light-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/orbitron-light-webfont.woff2') format('woff2'), url('../fonts/orbitron-light-webfont.woff') format('woff'), url('../fonts/orbitron-light-webfont.ttf') format('truetype'), url('../fonts/orbitron-light-webfont.svg#OratorStd') format('svg');
+    font-family: 'Quicksand';
+    src: url('../fonts/quicksand-regular-webfont.eot');
+    src: url('../fonts/quicksand-regular-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/quicksand-regular-webfont.woff2') format('woff2'), url('../fonts/quicksand-regular-webfont.woff') format('woff'), url('../fonts/quicksand-regular-webfont.ttf') format('truetype'), url('../fonts/quicksand-regular-webfont.svg#OratorStd') format('svg');
 }
 
 @font-face {
@@ -93,7 +93,7 @@ body {
   padding: 0 20px;
 }
 .cover-heading {
-    font-family: "Orbitron";
+    font-family: "Quicksand";
     font-size: 92px;
     margin-bottom: 80px;
 }
